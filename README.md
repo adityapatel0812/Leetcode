@@ -10,6 +10,7 @@ solved Question of Leetcode
 | [0134-gas-station](https://github.com/adityapatel0812/Leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/adityapatel0812/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/adityapatel0812/Leetcode/tree/master/0414-third-maximum-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapatel0812/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/adityapatel0812/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/adityapatel0812/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -30,6 +31,7 @@ solved Question of Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/adityapatel0812/Leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
