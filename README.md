@@ -43,6 +43,7 @@ solved Question of Leetcode
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/adityapatel0812/Leetcode/tree/master/0009-palindrome-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityapatel0812/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Greedy
 |  |
