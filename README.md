@@ -11,6 +11,7 @@ solved Question of Leetcode
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/adityapatel0812/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/adityapatel0812/Leetcode/tree/master/0414-third-maximum-number) |
+| [0860-lemonade-change](https://github.com/adityapatel0812/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/adityapatel0812/Leetcode/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapatel0812/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/adityapatel0812/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -52,6 +53,7 @@ solved Question of Leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityapatel0812/Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/adityapatel0812/Leetcode/tree/master/0134-gas-station) |
+| [0860-lemonade-change](https://github.com/adityapatel0812/Leetcode/tree/master/0860-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
