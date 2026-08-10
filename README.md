@@ -9,6 +9,7 @@ solved Question of Leetcode
 | [0011-container-with-most-water](https://github.com/adityapatel0812/Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/adityapatel0812/Leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityapatel0812/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/adityapatel0812/Leetcode/tree/master/0414-third-maximum-number) |
 | [0860-lemonade-change](https://github.com/adityapatel0812/Leetcode/tree/master/0860-lemonade-change) |
@@ -25,6 +26,7 @@ solved Question of Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,6 +35,7 @@ solved Question of Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adityapatel0812/Leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
@@ -46,6 +49,7 @@ solved Question of Leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adityapatel0812/Leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/adityapatel0812/Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adityapatel0812/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Greedy
@@ -78,4 +82,12 @@ solved Question of Leetcode
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/adityapatel0812/Leetcode/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
