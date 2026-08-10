@@ -7,6 +7,7 @@ solved Question of Leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityapatel0812/Leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/adityapatel0812/Leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/adityapatel0812/Leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
@@ -21,6 +22,7 @@ solved Question of Leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityapatel0812/Leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/adityapatel0812/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/adityapatel0812/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -34,6 +36,7 @@ solved Question of Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adityapatel0812/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adityapatel0812/Leetcode/tree/master/0414-third-maximum-number) |
@@ -90,4 +93,12 @@ solved Question of Leetcode
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adityapatel0812/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adityapatel0812/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
