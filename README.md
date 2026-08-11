@@ -23,6 +23,7 @@ solved Question of Leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityapatel0812/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/adityapatel0812/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/adityapatel0812/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/adityapatel0812/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adityapatel0812/Leetcode/tree/master/0344-reverse-string) |
 ## Hash Table
@@ -105,5 +106,6 @@ solved Question of Leetcode
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/adityapatel0812/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adityapatel0812/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
