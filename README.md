@@ -110,8 +110,17 @@ solved Question of Leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/adityapatel0812/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/adityapatel0812/Leetcode/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/adityapatel0812/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityapatel0812/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityapatel0812/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityapatel0812/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
