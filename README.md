@@ -6,6 +6,7 @@ solved Question of Leetcode
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityapatel0812/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/adityapatel0812/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/adityapatel0812/Leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/adityapatel0812/Leetcode/tree/master/0134-gas-station) |
@@ -36,6 +37,7 @@ solved Question of Leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityapatel0812/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -92,6 +94,7 @@ solved Question of Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adityapatel0812/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
