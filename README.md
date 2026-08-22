@@ -8,6 +8,7 @@ solved Question of Leetcode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityapatel0812/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/adityapatel0812/Leetcode/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/adityapatel0812/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/adityapatel0812/Leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/adityapatel0812/Leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
@@ -70,6 +71,7 @@ solved Question of Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adityapatel0812/Leetcode/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/adityapatel0812/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -118,6 +120,7 @@ solved Question of Leetcode
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adityapatel0812/Leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityapatel0812/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
