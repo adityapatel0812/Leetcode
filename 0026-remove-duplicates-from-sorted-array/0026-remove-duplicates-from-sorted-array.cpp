@@ -4,8 +4,7 @@ public:
         int fix=0;
         int move=1;
         int unique=1;
-        int n=nums.size();
-        while(move<n){
+        while(move<nums.size()){
             if(nums[move]==nums[move-1]){
                 move++;
                 continue;
