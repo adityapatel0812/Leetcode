@@ -8,6 +8,7 @@ solved Question of Leetcode
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityapatel0812/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/adityapatel0812/Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityapatel0812/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/adityapatel0812/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/adityapatel0812/Leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/adityapatel0812/Leetcode/tree/master/0134-gas-station) |
@@ -25,6 +26,7 @@ solved Question of Leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityapatel0812/Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adityapatel0812/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/adityapatel0812/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/adityapatel0812/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/adityapatel0812/Leetcode/tree/master/0283-move-zeroes) |
