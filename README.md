@@ -22,6 +22,7 @@ solved Question of Leetcode
 | [0860-lemonade-change](https://github.com/adityapatel0812/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/adityapatel0812/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityapatel0812/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityapatel0812/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapatel0812/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/adityapatel0812/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/adityapatel0812/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -44,6 +45,7 @@ solved Question of Leetcode
 | ------- |
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityapatel0812/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +61,7 @@ solved Question of Leetcode
 | [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adityapatel0812/Leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityapatel0812/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityapatel0812/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -148,4 +151,8 @@ solved Question of Leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityapatel0812/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityapatel0812/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
