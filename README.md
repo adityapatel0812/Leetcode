@@ -21,6 +21,7 @@ solved Question of Leetcode
 | [0414-third-maximum-number](https://github.com/adityapatel0812/Leetcode/tree/master/0414-third-maximum-number) |
 | [0860-lemonade-change](https://github.com/adityapatel0812/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/adityapatel0812/Leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/adityapatel0812/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityapatel0812/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityapatel0812/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityapatel0812/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -46,6 +47,7 @@ solved Question of Leetcode
 | [0169-majority-element](https://github.com/adityapatel0812/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityapatel0812/Leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/adityapatel0812/Leetcode/tree/master/0409-longest-palindrome) |
+| [0904-fruit-into-baskets](https://github.com/adityapatel0812/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityapatel0812/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
@@ -154,6 +156,7 @@ solved Question of Leetcode
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityapatel0812/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/adityapatel0812/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Counting Sort
 |  |
 | ------- |
